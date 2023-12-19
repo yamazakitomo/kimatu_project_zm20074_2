@@ -1,2 +1,2 @@
-function imagechange1(){document.getElementById('logo').src=./image/}
+function imagechange1(){document.getElementById('logo').src=./image/valentine_watasu_student.png;}
 function imagechange2(){document.getElementById('logo').src=./image/}
