@@ -1,1 +1,4 @@
-h1{color:#87ceeb;}
+h1{color: #87ceeb;}
+tr,th,td{border: solid medium black;}
+th.ari{color: red;}
+th.nasi{color: blue;}
