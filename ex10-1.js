@@ -1,1 +1,1 @@
-function hyoji(){var str="なにかの言葉がかくれているよ！"; var cnt=document.timer.moji.value.length;if(cnt<15){document.timer.moji.value=str.substr(0,cnt+1);}else{cocument.timer.moji.value="";}function hinto(){setInterval("hyoji()",1000);}}
+function hyoji(){var str="なにかの言葉がかくれているよ！"; var cnt=document.timer.moji.value.length;if(cnt<15){document.timer.moji.value=str.substr(0,cnt+1);}else{cocument.timer.moji.value="";}function startfnc(){setInterval("hyoji()",1000);}}
