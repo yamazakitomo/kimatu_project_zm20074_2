@@ -1,1 +1,1 @@
-function hint(){var str="なにかの言葉がかくれているよ！"; var cnt=document.timer.moji.value.length;if(cnt<15){document.timer.moji.value=str.substr(0,cnt+1);}else{doocument.timer.moji.value="";}setTimeout("hint()",1000);}
+function hint(){var str="なにかの言葉がかくれているよ！"; var cnt=document.timer.moji.value.length;if(cnt<15){document.timer.moji.value=str.substr(0,cnt+1);}else{document.timer.moji.value="";}setTimeout("hint()",1000);}
